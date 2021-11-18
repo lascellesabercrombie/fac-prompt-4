@@ -1,0 +1,41 @@
+body {
+    background: cornsilk;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+
+  h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+  }
+
+  .div1 {
+    text-align: center; 
+  }
+
+  #text-input {
+    text-align: center;
+    background-color: aquamarine;
+  }
+
+  .radio-list {
+      text-align: left;
+      margin: 0em 25% 0em 30%;
+      line-height: 1.5;
+  }
+
+  .submit-button {
+    text-align: center;
+  }
+
+  button {
+    border-radius: 20px;
+    font-size: medium;
+  }
+
+.output-area {
+    text-align: center;
+    background-color: rgba(126, 105, 20, 0.562);
+    padding: 1em;
+    margin: 2em 6em 4em 6em;
+    border-radius: 3em;
+  }
